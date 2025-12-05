@@ -1,3 +1,5 @@
 "train.npz" 
 "val.npz" 
 "test.npz" 
+.streamlit/
+__pycache__/
